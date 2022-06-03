@@ -1,6 +1,10 @@
 #include<stdio.h>
 
-/*main function description*/
+/**
+ *
+ *  * my_function - This is a description
+ *
+ *   */
 int main(void)
 
 {
